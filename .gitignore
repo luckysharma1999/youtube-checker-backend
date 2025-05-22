@@ -1,0 +1,16 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Runtime
+*.pid
+*.seed
+
+# OS junk
+.DS_Store
+Thumbs.db
